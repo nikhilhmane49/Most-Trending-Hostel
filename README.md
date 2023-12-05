@@ -10,9 +10,14 @@ Most Trending Hostel page
 - `other all`:images
 
   🌟 **Key Features:**
+  
   -🛌 User-friendly interface for easy navigation
+
   -📞 Clear contact information and support channels
+
   -🌐 Information-rich hostel details with CSS styling
+
   - 📝 Reviews and ratings for user feedback
  
+
     Thank you for visiting! Feel free to explore the codebase and experience the hostel!!🚀
