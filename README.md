@@ -17,7 +17,7 @@ Most Trending Hostel page
 
   -🌐 Information-rich hostel details with CSS styling
 
-  - 📝 Reviews and ratings for user feedback
+  -📝 Reviews and ratings for user feedback
  
 
     Thank you for visiting! Feel free to explore the codebase and experience the hostel!!🚀
